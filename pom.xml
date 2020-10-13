@@ -8,7 +8,7 @@
   <name>Hibernate ORM 5 Test Case Template</name>
 
   <properties>
-    <version.junit>4.12</version.junit>
+    <version.junit>4.13.1</version.junit>
     <version.org.hibernate>5.4.2.Final</version.org.hibernate>
   </properties>
 
