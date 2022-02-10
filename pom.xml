@@ -9,7 +9,7 @@
 
   <properties>
     <version.junit>4.12</version.junit>
-    <version.org.hibernate>5.4.2.Final</version.org.hibernate>
+    <version.org.hibernate>5.4.24.Final</version.org.hibernate>
   </properties>
 
   <dependencies>
